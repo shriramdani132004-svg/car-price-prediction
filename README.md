@@ -35,10 +35,3 @@ This project predicts car prices using Machine Learning and provides an interact
 
 ```bash
 streamlit run app.py
-
-## App Preview
-
-<p align="center">
-  <img src="app2.png" width="400"/>
-  <img src="app1.png" width="400"/>
-</p>
